@@ -1,0 +1,11 @@
+#Exclude everything
+/*
+
+#Except this files:
+
+#Basic files
+!/.bashrc
+!/.gitignore
+!/.gitconfig
+!/.profile
+
